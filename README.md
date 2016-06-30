@@ -12,9 +12,3 @@ __2. Condition(20%)__
 __3. Alarm(30%)__
 
 __4. PriorityScheduler(40%)__
-
-
-
-
-Trouble Shooting
-----------------
